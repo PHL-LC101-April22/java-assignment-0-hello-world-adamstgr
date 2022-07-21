@@ -10,5 +10,5 @@ public class HelloWorld {
     public static String sayHello() {
         return "";
     }
-
+    public static String moreHello(){ return "";}
 }
