@@ -8,7 +8,7 @@ public class HelloWorld {
     }
 
     public static String sayHello() {
-        return "";
+        return "Hello, World!";
     }
-
+    public static String moreHello(){ return "Way more cool stuff!";}
 }
